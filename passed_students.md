@@ -1,6 +1,6 @@
 # Passed Students Python Program
-# Brittany A. Hamilton
-# 5/17/2020
+## Brittany A. Hamilton
+## 5/17/2020
 
 ## First you want to import your CSV from Qualtrics or whatever software you are using.
 
