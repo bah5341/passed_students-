@@ -1,8 +1,8 @@
-## Hamilton Final Project 
+# Hamilton Final Project: Passing Students
 
 ## Overview
 
-A python program that takes a CSV file directly downloaded from Qualtrics and distinguishes passing students (80% or higher) from failing students (lower than 80%). I designed this project specifically for the Qualtrics post tests I utilize in my work, in order to gain an understanding of students who are passing and failing the courses. For the breadth of this project, I only utilized one post test, however this code can be adapted to other CSV's downloaded from Qualtrics and seperated in this manner. 
+A python program that takes a CSV file directly downloaded from Qualtrics and distinguishes passing students (80% or higher) from failing students (lower than 80%). I designed this project specifically for the Qualtrics post tests I utilize in my work, in order to gain an understanding of students who are passing the courses. For the breadth of this project, I only utilized one post test, however this code can be adapted to other CSV's downloaded from Qualtrics and seperated in this manner. 
 
 ## Installation and Usage 
 

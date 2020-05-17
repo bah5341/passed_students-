@@ -1,3 +1,7 @@
+# Passed Students Python Program
+# Brittany A. Hamilton
+# 5/17/2020
+
 ## First you want to import your CSV from Qualtrics or whatever software you are using.
 
 import csv
@@ -24,4 +28,4 @@ for record in student_records:
 
 print(passed_students)
 
-# If you are interested in also getting the names of the students who have failed you can run the code above by creating a failed_students empty list and changing the float parameters (instead of > 79.99 in my case I would put < 80.00) and re-run the code. 
+## If you are interested in also getting the names of the students who have failed you can run the code above by creating a failed_students empty list and changing the float parameters (instead of > 79.99 in my case I would put < 80.00) and re-run the code. 
